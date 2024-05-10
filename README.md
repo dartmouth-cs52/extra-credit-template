@@ -1,13 +1,14 @@
-# Title
+# Extra Credit Assignments
 
-*description*
+for each extra credit that you do find the github issue and comment on it as such:
 
-[deployed url](http://url-if-deployed-here)
+## Describe what you did
+i built a thing
 
-## What Worked Well
+## What worked
+most of it
 
-## What Didn't
+## What didn't 
+some parts of it
 
-## Extra Credit
-
-## Screenshots
+include screenshots! 
