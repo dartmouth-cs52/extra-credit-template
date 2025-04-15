@@ -2,13 +2,17 @@
 
 for each extra credit that you do find the github issue and comment on it as such:
 
-## Describe what you did
-i built a thing
+# Title
+TODO: short project description, some screenshots
 
-## What worked
-most of it
+## Setup
 
-## What didn't 
-some parts of it
+TODO: how to get the project dev environment up and running, npm install etc
 
-include screenshots! 
+## Deployment
+
+TODO: add deployed link and short description of how you deployed
+
+## Acknowledgments
+
+TODO: provide a list of sources used in project
